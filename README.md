@@ -58,8 +58,6 @@
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
 </p>
 
-- 👀 I’m interested in: 
-- 🌱 I’m currently learning ...
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: luka.zugaj7@gmail.com
 
